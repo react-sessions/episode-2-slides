@@ -1,0 +1,33 @@
+
+### STATE
+
+- Only available in class-based Components
+- Initialized in the constructor
+- State changes trigger component updates
+- Change state by calling `this.setState(...)`
+- State changes are asynchronous
+
+[Example](https://codepen.io/berkmolla/pen/rzGBKP)
+
+---
+
+### But how is state different to props?
+
+---
+
+#### State vs. Props
+
+| _props_ | _state_ |
+--- | --- | ---
+Can get initial value from parent Component? | Yes | Yes
+Can be changed by parent Component? | Yes | No
+Can set default values inside Component? | Yes | Yes
+Can change inside Component? | No | Yes
+Can set initial value for child Components? | Yes | Yes
+Can change in child Components? | Yes | No
+
+Taken from [this guide](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md#changing-props-and-state)
+
+---
+
+<img src="img/statetweet.jpeg" width="550"></img>
