@@ -3,11 +3,9 @@
 
 - Only available in class-based Components
 - Initialized in the constructor
+- [Change state](https://codepen.io/berkmolla/pen/rzGBKP) by calling `this.setState(...)`
 - State changes trigger component updates
-- Change state by calling `this.setState(...)`
-- State changes are asynchronous
-
-[Example](https://codepen.io/berkmolla/pen/rzGBKP)
+- State changes are [asynchronous](https://codepen.io/berkmolla/pen/mMBjGX?editors=1111)
 
 ---
 
