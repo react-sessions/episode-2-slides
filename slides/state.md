@@ -1,5 +1,9 @@
 
-### STATE
+## STATE
+
+---
+
+### State
 
 - An object internal to a Component describing its... state
 - Only available in class-based Components
