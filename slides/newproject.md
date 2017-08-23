@@ -1,3 +1,5 @@
+<img src="img/react.svg" class="spin logo logo--small" />
+
 ### Setting up a barebones React project from scratch
 
 [Link to the repo](https://github.com/react-sessions/react-barebones)
