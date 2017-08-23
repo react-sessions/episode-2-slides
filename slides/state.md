@@ -1,8 +1,9 @@
-<img src="img/react.svg" class="spin logo logo--small" />
 
-### State
+## STATE
 
 ---
+
+### State
 
 - An object internal to a Component describing its... state
 - Only available in class-based Components
