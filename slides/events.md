@@ -195,6 +195,20 @@ const activateLasers = e => console.log(e.shiftKey);
 
 ------
 
+## Exercise
+
+Create an component which writes a message to the console when the mouse is hovered over an element, and when the mouse is moved away from the element.
+
+[CodePen](https://goo.gl/tudtKp)
+
+---
+
+A solution
+
+[CodePen](https://goo.gl/fshd4s)
+
+------
+
 ## Event Pooling
 
 ---
@@ -211,15 +225,15 @@ If you want to access the event properties in an asynchronous way, you should ca
 
 ------
 
-## Exercise
+## Final exercise
 
-Create an component which writes a message to the console when the mouse is hovered over an element, and when the mouse is moved away from the element.
+Complete this CodePen so that the message is displayed when the shift key is held and button is clicked
 
-[CodePen](https://goo.gl/xLZZTt)
+[CodePen](https://goo.gl/UwFDxN)
 
 ---
 
-A solution
+Solution
 
-[CodePen](https://goo.gl/HP77kSt)
 
+[CodePen](https://goo.gl/pJ48YC)
