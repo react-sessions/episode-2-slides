@@ -1,6 +1,8 @@
-### React Sessions
+# React Sessions
 
-#### Welcome to episode II
+<img src="img/react.svg" class="spin logo" />
+
+### Welcome to episode II
 
 ---
 
