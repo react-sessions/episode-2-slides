@@ -1,5 +1,7 @@
 ### Setting up a barebones React project from scratch
 
+[Link to the repo](https://github.com/react-sessions/react-barebones)
+
 ---
 
 - First, set up an [html template](https://drive.google.com/open?id=0B7CIzG7rTeYiczYyX210eURxTDA)
