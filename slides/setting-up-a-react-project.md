@@ -1,6 +1,6 @@
-## Setting up a React project
+<img src="img/react.svg" class="spin logo logo--small" />
 
-<img src="img/react.svg" class="spin logo" />
+## Setting up a React project
 
 ---
 

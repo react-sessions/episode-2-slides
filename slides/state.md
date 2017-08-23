@@ -1,5 +1,8 @@
+<img src="img/react.svg" class="spin logo logo--small" />
 
-### STATE
+### State
+
+---
 
 - Only available in class-based Components
 - Initialized in the constructor

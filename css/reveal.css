@@ -1360,6 +1360,9 @@ body {
   border: none;
   height: 200px; }
 
+.logo--small {
+  height: 100px; }
+
 .spin {
   -webkit-animation: spin infinite 20s linear;
           animation: spin infinite 20s linear; }

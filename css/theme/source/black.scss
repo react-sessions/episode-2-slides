@@ -21,6 +21,9 @@ $backgroundColor: #222;
 $mainColor: #fff;
 $headingColor: #fff;
 
+$codeBackground: #999;
+$codeText: #23241f;
+
 $mainFontSize: 42px;
 $mainFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingFont: 'Source Sans Pro', Helvetica, sans-serif;
@@ -41,6 +44,16 @@ section.has-light-background {
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #222;
 	}
+}
+
+.reveal p code,
+.reveal li > code {
+    background-color: $codeBackground;
+    color: $codeText;
+    display: inline-block;
+    border-radius: 7px;
+    padding: 0 5px;
+    text-shadow: initial;
 }
 
 
